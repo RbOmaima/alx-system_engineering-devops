@@ -1,0 +1,2 @@
+#!/ben/bash
+ls -al . .. /boot
